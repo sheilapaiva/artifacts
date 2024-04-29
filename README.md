@@ -1,2 +1,2 @@
-# artefatos
-Artefatos do artigo
+# Artifacts
+Article artifacts
